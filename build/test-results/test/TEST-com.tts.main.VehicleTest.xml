@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tts.main.VehicleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-24T07:40:00" hostname="LAPTOP-DRBHGO3B" time="0.003">
+  <properties/>
+  <testcase name="test()" classname="com.tts.main.VehicleTest" time="0.003"/>
+  <system-out><![CDATA[The vehicle is driving...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

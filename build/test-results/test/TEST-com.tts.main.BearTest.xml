@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tts.main.BearTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-24T07:40:00" hostname="LAPTOP-DRBHGO3B" time="0.035">
+  <properties/>
+  <testcase name="Test()" classname="com.tts.main.BearTest" time="0.035"/>
+  <system-out><![CDATA[This Animal ate
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

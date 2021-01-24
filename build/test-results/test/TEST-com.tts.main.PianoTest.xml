@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tts.main.PianoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-24T07:40:00" hostname="LAPTOP-DRBHGO3B" time="0.015">
+  <properties/>
+  <testcase name="test()" classname="com.tts.main.PianoTest" time="0.015"/>
+  <system-out><![CDATA[my piano
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
